@@ -1,0 +1,2 @@
+# AlphaBackgroundScrollView
+半透明背景的scrollview
